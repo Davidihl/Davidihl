@@ -2,7 +2,7 @@
 - 👀 I’m interested in Fullstack development
 - 🌱 I’m currently exploring Tailwind.css, Javascript & AlpineJS
 
-- 📫 How to reach me ... https://twitter.com/David_Ihl
+- 📫 How to reach me ... https://twitter.com/David_Ihl & https://www.linkedin.com/in/david-ihl/
 
 
 ### Current techstack:
